@@ -1,0 +1,55 @@
+.mainMenu {
+    height: 200px;
+    background-color: pink;
+}
+
+.mainBlock {
+    display: flex;
+}
+
+.leftPanel {
+    height: 800px;
+    width: 20%;
+    background-color: yellow;
+}
+
+.mainPanel {
+    height: 800px;
+    width: 60%;
+    background-color: purple;
+}
+
+.rightPanel {
+    height: 800px;
+    width: 20%;
+    background-color: paleturquoise;
+}
+
+.mainPanel img {
+    max-width: 50%;
+    max-height: 45%;
+    margin-left: 25%;
+}
+
+.mainMenu h1 {
+    font-size: 50px;
+    color: white;
+    text-align: center;
+}
+
+.mainMenu p {
+    margin-left: 10px;
+    color: white;
+}
+
+.leftPanel {
+    margin-left: 10px;
+    color: violet;
+    font-size: 30px;
+}
+
+.rightPanel {
+    margin-left: 10px;
+    color: violet;
+    font-size: 30px;
+}
